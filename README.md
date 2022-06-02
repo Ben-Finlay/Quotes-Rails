@@ -1,24 +1,15 @@
-# README
+# Quotes!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is to give you a random quote (from the database) each time you visit or refresh your homepage.  Feel free to fork and customize.
 
-Things you may want to cover:
+Requirements
 
-* Ruby version
+* Ruby 3.1.1
 
-* System dependencies
+* Rails 6.1.6
 
-* Configuration
+* To configure run ``` Bundle Install ```
 
-* Database creation
+* Database creation ``` bin/rails db:migrate``` ```bin/rails db:reset```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Enjoy!
