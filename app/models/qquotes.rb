@@ -1,0 +1,3 @@
+class Qquotes < ApplicationRecord
+
+end
