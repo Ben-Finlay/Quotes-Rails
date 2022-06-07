@@ -24,13 +24,14 @@
 
 .header {
   display: flex;
+  justify-content: space-between;
   margin: 20px;
   padding: 5px;
 }
 
 .quotes-div {
 margin: auto;
-width: 65%;
+width: 80%;
 padding-top: 80px;
 
 }
