@@ -1,14 +1,15 @@
 <%= stylesheet_link_tag 'application' %>
+<% javascript_pack_tag 'time' %>
 
 <header>
 <%= render 'header' %>
 </header>
 
-
 <div class="quotes-div">
 <blockquote class="quotes-block"> <%= @current_quote.quote %> </blockquote>
+
 <section class="author-line">
 
-
-<p class="author-p">- <%= @current_quote.author %></p>
+<p class="author-p">- <%= @current_quote.author %> id: <%= @current_quote.id %></p>
 </section>
+</div>

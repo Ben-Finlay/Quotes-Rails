@@ -27,12 +27,13 @@
   justify-content: space-between;
   margin: 20px;
   padding: 5px;
+  align-items: center;
 }
 
 .quotes-div {
 margin: auto;
 width: 80%;
-padding-top: 80px;
+padding-top: 60px;
 
 }
 
@@ -49,3 +50,13 @@ padding-top: 80px;
   float: right;
 }
 
+#weather {
+  display: flex;
+  align-items: center;
+}
+
+#clock {
+  padding-right: 78px;
+}
+
+//Search Bar

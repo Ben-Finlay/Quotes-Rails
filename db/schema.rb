@@ -10,6 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
+
 ActiveRecord::Schema.define(version: 2022_06_02_020508) do
 
   create_table "qquotes", force: :cascade do |t|

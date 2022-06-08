@@ -1,6 +1,6 @@
 Qquotes.create(author: 'Marcus Aurelius', quote: 'No, you do not have a thousand years to live. Urgency is on you. So while you live, while you can, become good.')
 Qquotes.create(author: 'Immanuel Kant', quote: 'The science of mathematics presents the most brilliant example of how pure reason may successfully enlarge its domain without the aid of experience.')
-Qquotes.create(author: ' Nagarjuna', quote: 'Emptiness is the relinquishing of all [metaphysical] views. For whomever emptiness is a view, that one will accomplish nothing.')
+Qquotes.create(author: 'Nagarjuna', quote: 'Emptiness is the relinquishing of all [metaphysical] views. For whomever emptiness is a view, that one will accomplish nothing.')
 Qquotes.create(author:'Arthur Schopenhauer', quote: 'If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not one rather have so much sympathy with the coming generation as to spare it the burden of existence, or at any rate not take it upon themself to impose that burden upon it in cold blood?')
 Qquotes.create(author:'Kurt Vonnegut', quote: 'A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved.')
 Qquotes.create(author:'Friedrich Nietzsche', quote: 'For believe me! — the secret for harvesting from existence the greatest fruitfulness and the greatest enjoyment is: to live dangerously!')
@@ -26,7 +26,7 @@ Qquotes.create(author:'Jean-Jacques Rousseau', quote: 'We grasp everything, we c
 ')
 Qquotes.create(author:'Epicurus', quote: 'Every friendship is an excellence in itself, even though it begins in mutual advantage.
 ')
-Qquotes.create(author:'', quote: "Nothing, to my way of thinking, is a better proof of a well ordered mind than a person's ability to stop just where they are and pass some time in their own company.
+Qquotes.create(author:'Seneca', quote: "Nothing, to my way of thinking, is a better proof of a well ordered mind than a person's ability to stop just where they are and pass some time in their own company.
 ")
 Qquotes.create(author:'Heraclitus', quote: 'It is difficult to fight against anger, for whatever it wants it buys at the price of the soul.
 ')
@@ -206,7 +206,7 @@ Qquotes.create(author:'Richard Wright', quote: "The thing to do was to act just 
 Qquotes.create(author:'Philip Pullman', quote: "Seems to me the place you fight cruelty is where you find it, and the place you give help is where you see it needed.")
 Qquotes.create(author:'Henry David Thoreau', quote: "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.")
 Qquotes.create(author:'Bertrand Russell', quote: "Spinoza is the noblest and most lovable of the great philosophers. Intellectually, some have surpassed him, but ethically he is supreme. As a natural consequence, he was considered, during his lifetime and for a century after his death, a man of appalling wickedness.")
-Qquotes.create(author:'Denis Diderot', quote: "Humankind will never be free until the last king is strangled with the entrails of the last priest")
+Qquotes.create(author:'Denis Diderot', quote: "Humankind will never be free until the last monarch is strangled with the entrails of the last priest.")
 Qquotes.create(author:'Laozi', quote: "If you do not change direction, you may end up where you are heading.")
 Qquotes.create(author:'Laozi', quote: "Nature does not hurry, yet everything is accomplished.")
 Qquotes.create(author:'Euripides', quote: "Do not consider painful what is good for you.")
@@ -299,6 +299,9 @@ Qquotes.create(author:'José Saramago', quote: "We all know that each day that d
 Qquotes.create(author:'Oscar Wilde', quote: "Sometimes the poor are praised for being thrifty. But to recommend thrift to the poor is both grotesque and insulting. It is like advising a man who is starving to eat less.")
 Qquotes.create(author:'Oscar Wilde', quote: "Most people become bankrupt through having invested too heavily in the prose of life. To have ruined one's self over poetry is an honour.")
 Qquotes.create(author:'George Saunders', quote: "What I regret most in my life are failures of kindness. Those moments when another human being was there, in front of me, suffering and I responded… sensibly. Reservedly. Mildly.")
+Qquotes.create(author:'Aleksandr Solzhenitsyn', quote: "Own only what you can always carry with you: know languages, know countries, know people. Let your memory be your travel bag.")
+Qquotes.create(author:'Aleksandr Solzhenitsyn', quote: "The simple step of a courageous individual is not to take part in the lie. 'One word of truth outweighs the world.'")
+Qquotes.create(author:'', quote: "")
 
 
 
