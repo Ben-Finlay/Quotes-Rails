@@ -30,6 +30,8 @@ gem 'openweathermap', '~> 0.2.3'
 
 gem 'whenever', require: false
 
+gem 'dotenv', '~> 2.0.0'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 

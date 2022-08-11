@@ -59,4 +59,24 @@ padding-top: 60px;
   padding-right: 78px;
 }
 
-//Search Bar
+#spin:hover {
+  animation: rotation 1s linear;
+}
+
+
+
+
+
+
+
+
+
+@keyframes rotation {
+  50% {
+    transform: rotate(180deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

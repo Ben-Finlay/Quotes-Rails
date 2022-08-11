@@ -15,7 +15,7 @@ Qquotes.create(author:'Heraclitus', quote: 'There is a greater need to extinguis
 Qquotes.create(author:'David Hume', quote: 'This avidity alone, of acquiring goods and possessions for ourselves and our nearest friends, is insatiable, perpetual, universal, and directly destructive of society.')
 Qquotes.create(author:'Frantz Fanon', quote: "The colonized must be made to see that colonialism never gives away anything for nothing. Whatever gains the colonized make through armed or political struggle, they are not the result of the colonizer's good will or goodness of heart but to the fact that he can no longer postpone such concessions.
 ")
-Qquotes.create(author:'Bertrand Russell', quote: 'The wage system has made people believe that what a person needs is work. This, of course, is absurd. What he needs is the goods produced by work, and the less work involved in making a given amount of goods, the better.')
+Qquotes.create(author:'Bertrand Russell', quote: 'The wage system has made people believe that what a person needs is work. This, of course, is absurd. What they needs is the goods produced by work, and the less work involved in making a given amount of goods, the better.')
 Qquotes.create(author:'Franz Kafka', quote: 'One tells as few lies as possible only by telling as few lies as possible, and not by having the least possible opportunity to do so.
   ')
 Qquotes.create(author:'Friedrich Nietzsche', quote: 'It is true: we love life not because we are used to living, but because we are used to loving.')
@@ -201,7 +201,7 @@ Qquotes.create(author:'Ludwig Wittgenstein', quote: "I wish to suggest that a pe
 Qquotes.create(author:'George Eliot', quote: "I am not imposed upon by fine words; I can see what actions mean.")
 Qquotes.create(author:'Cicero', quote: "I prefer uneloquent good sense to loquacious folly.")
 Qquotes.create(author:'Cormac McCarthy', quote: "Keep a little fire burning; however small, however hidden.")
-Qquotes.create(author:'Anaïs Nin', quote: "We are all engaged in teh task of peeling off the false selves, the programmed selves, the selves created by our families, our culture, our religions.")
+Qquotes.create(author:'Anaïs Nin', quote: "We are all engaged in the task of peeling off the false selves, the programmed selves, the selves created by our families, our culture, our religions.")
 Qquotes.create(author:'Richard Wright', quote: "The thing to do was to act just like others acted, live like they lived, and while they were not looking, do what you wanted.")
 Qquotes.create(author:'Philip Pullman', quote: "Seems to me the place you fight cruelty is where you find it, and the place you give help is where you see it needed.")
 Qquotes.create(author:'Henry David Thoreau', quote: "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.")
@@ -216,9 +216,9 @@ Qquotes.create(author:'Ralph Waldo Emerson', quote: "Let me never fall into the 
 Qquotes.create(author:'Bertrand Russell', quote: "In democratic countries, the most important private organizations are economic. Unlike secret societies, they are able to exercise their terrorism without illegality, since they do not threaten to kill their enemies, but only to starve them.")
 Qquotes.create(author:'Hannah Arendt', quote: "The common prejudice that love is as common as ‘romance’ may be due to the fact that we all learned about it first through poetry. But the poets fool us; they are the only ones to whom love is not only a crucial, but an indispensable experience, which entitles them to mistake it for a universal one.")
 Qquotes.create(author:'Plato', quote: "Opinion is really the lowest form of human knowledge. It requires no accountability, no understanding. The highest form of knowledge is empathy, for it requires us to suspend our egos and live in another’s world. It requires profound purpose larger than the self kind of understanding.")
-Qquotes.create(author:'Plato', quote: "If anyone comes to the gates of poetry and expects to become an adequate poet by acquiring expert knowledge of the subject without the Muses' madness, he will fail, and his self-controlled verses will be eclipsed by the poetry of men who have been driven out of their minds.")
+Qquotes.create(author:'Plato', quote: "If anyone comes to the gates of poetry and expects to become an adequate poet by acquiring expert knowledge of the subject without the Muses' madness, they will fail, and their self-controlled verses will be eclipsed by the poetry of those who have been driven out of their minds.")
 Qquotes.create(author:'Simone de Beauvoir', quote: "To be oneself, simply oneself, is so amazing and utterly unique an experience that it's hard to convince oneself so singular a thing happens to everybody.")
-Qquotes.create(author:'Arthur Schopenhauer', quote: "Whoever heard me assert that the grey cat playing just now in the yard is the same one that did jumps and tricks there five hundred years ago will think whatever he likes of me, but it is a stranger form of madness to imagine that the present-day cat is fundamentally an entirely different one.
+Qquotes.create(author:'Arthur Schopenhauer', quote: "Whoever heard me assert that the grey cat playing just now in the yard is the same one that did jumps and tricks there five hundred years ago will think whatever they like of me, but it is a stranger form of madness to imagine that the present-day cat is fundamentally an entirely different one.
 ")
 Qquotes.create(author:'Henry David Thoreau', quote: "Unjust laws exist; shall we be content to obey them, or shall we endeavor to amend them, and obey them until we have succeeded, or shall we transgress them at once?")
 Qquotes.create(author:'Donna Tartt', quote: "Any action, in the fullness of time, sinks to nothingness.")
@@ -240,12 +240,11 @@ Qquotes.create(author:'Aristotle', quote: "It is the mark of an educated mind to
 Qquotes.create(author:'Gore Vidal', quote: "Eventually all things are known. And few matter.")
 Qquotes.create(author:'Alfred North Whitehead', quote: "The guiding motto in the life of every natural philosopher should be, ‘Seek simplicity and distrust it.’")
 Qquotes.create(author:'José Saramago', quote: "There is nothing in this world that belongs to us in an absolute sense.")
-Qquotes.create(author:'Mary Wollstonecraft,', quote: "England and America owe their liberty to commerce, which created a new species of power to undermine the feudal system. But let them beware of the consequences: the tyranny of wealth is still more galling and debasing than that of rank.")
+Qquotes.create(author:'Mary Wollstonecraft', quote: "England and America owe their liberty to commerce, which created a new species of power to undermine the feudal system. But let them beware of the consequences: the tyranny of wealth is still more galling and debasing than that of rank.")
 Qquotes.create(author:'Arthur Schopenhauer', quote: "It is a wise thing to be polite; consequently, it is a stupid thing to be rude. To make enemies by unnecessary and willful incivility, is just as insane a proceeding as to set your house on fire.")
 Qquotes.create(author:'Arthur Schopenhauer', quote: "Truth can bide its time, for it has a long life before it.")
 Qquotes.create(author:'Friedrich Nietzsche', quote: "This is the hardest of all: to close the open hand out of love, and keep modest as a giver.")
 Qquotes.create(author:'', quote: "There is nothing sacred about universality which makes the shared automatically better than the unshared.")
-Qquotes.create(author:'Richard Rorty,', quote: "")
 Qquotes.create(author:'Ralph Waldo Emerson', quote: "You cannot do a kindness too soon, for you never know how soon it will be too late.")
 Qquotes.create(author:'Rene Descartes', quote: "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.")
 Qquotes.create(author:'Hunter S. Thompson', quote: "It’s a strange world. Some people get rich and others eat shit and die.
@@ -301,7 +300,32 @@ Qquotes.create(author:'Oscar Wilde', quote: "Most people become bankrupt through
 Qquotes.create(author:'George Saunders', quote: "What I regret most in my life are failures of kindness. Those moments when another human being was there, in front of me, suffering and I responded… sensibly. Reservedly. Mildly.")
 Qquotes.create(author:'Aleksandr Solzhenitsyn', quote: "Own only what you can always carry with you: know languages, know countries, know people. Let your memory be your travel bag.")
 Qquotes.create(author:'Aleksandr Solzhenitsyn', quote: "The simple step of a courageous individual is not to take part in the lie. 'One word of truth outweighs the world.'")
+Qquotes.create(author:'Jiddu Krishnamurti', quote: "It is truth that liberates, not your effort to be free.")
+Qquotes.create(author:'Jiddu Krishnamurti', quote: "One is never afraid of the unknown; one is afraid of the known coming to an end.")
+Qquotes.create(author:'Jiddu Krishnamurti', quote: "When you call yourself an Indian or a Muslim or a Christian or a European, or anything else, you are being violent. Do you see why it is violent? Because you are separating yourself from the rest of humankind. When you separate yourself by belief, by nationality, by tradition, it breeds violence. So a person who is seeking to understand violence does not belong to any country, to any religion, to any political party or partial system; they are concerned with the total understanding of humankind.")
+Qquotes.create(author:'Hafiz', quote: "I wish I could show you, when you are lonely or in darkness, the astonishing light of your own being.")
+Qquotes.create(author:'Hafiz', quote: "I have come into this world to see this: Those so true to love, they would rather die before speaking an unkind word.")
+Qquotes.create(author:'Śāntideva', quote: "If the problem can be solved why worry? If the problem cannot be solved worrying will do you no good.")
+Qquotes.create(author:'Śāntideva', quote: "If with kindly generosity one merely has the wish to soothe the aching heads of other beings, such merit knows no bounds.")
+Qquotes.create(author:'Thomas Szasz', quote: "The proverb warns that, 'You should not bite the hand that feeds you.' But maybe you should, if it prevents you from feeding yourself.")
+Qquotes.create(author:'Nisargadatta Maharaj', quote: "Wisdom tells me I am nothing.
+Love tells me I am everything.
+Between the two my life flows.")
+Qquotes.create(author:'Rainer Maria Rilke', quote: "Yet no matter how deeply I go down into myself
+my God is dark, and like a webbing
+made of a hundred roots, that drink in
+silence.")
+Qquotes.create(author:'H. L. Mencken', quote: "The trouble with fighting for human freedom is that one spends most of one's time defending scoundrels. For it is against scoundrels that oppressive laws are first aimed, and oppression must be stopped at the beginning if it is to be stopped at all.")
+Qquotes.create(author:'Idries Shah', quote: "Numberless waves, lapping and momentarily reflecting the sun — all from the same sea.")
+Qquotes.create(author:'Khalil Gibran', quote: "Great beauty captures me, but a beauty still greater frees me even from itself.")
+Qquotes.create(author:'Dogon', quote: "Thus, no creature ever
+comes short of its own completeness.
+Wherever it stands,
+it does not fail to cover the ground.")
 Qquotes.create(author:'', quote: "")
+
+
+
 
 
 

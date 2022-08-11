@@ -4,28 +4,23 @@
 <div id="clock" onload= "currentTime()" >
 </div>
 
-<div onclick="window.location.reload()">
+<div id="spin" onclick="window.location.reload()">
 <%= image_tag "pngegg.png", height: 20, width: 20 %>
 </div>
 
 
-
-
 <div id="weather">
 
-&nbsp;&nbsp; Toronto &nbsp;&nbsp;
+&nbsp;&nbsp; <%= @city %> &nbsp;&nbsp;
 
 <%= image_tag @icon, height: 30, width: 30 %> &nbsp;&nbsp; <%= @temp_rnd %>°C
-
 
 
 </div>
 
 </section>
 
-
 <script>
-
 
 function currentTime() {
   let date = new Date(); 
@@ -48,7 +43,5 @@ function currentTime() {
 }
 
 currentTime();
-
-
 
 </script>
